@@ -29,3 +29,4 @@ Python
 Discord.py (bibliothèque officielle Discord en Python)
 
 Selenium WebDriver (scraping web avec gestion JavaScript)
+ 
