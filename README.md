@@ -1,32 +1,18 @@
-Bot Discord - Surveillance automatique des notes (etudnotes)
+# Mon super bot Discord – Scraper de notes
 
-📌 Présentation du projet
+## 📌 Présentation du projet
 
-Ce projet est un bot Discord écrit en Python qui automatise le scraping des notes à partir de la plateforme universitaire etudnotes. Le bot surveille régulièrement l'apparition de nouvelles notes et avertit automatiquement les utilisateurs sur un serveur Discord spécifique dès leur publication.
+Ce projet est un **bot Discord écrit en Python** qui automatise le scraping des notes sur la plateforme **etudnotes**.
 
-🔍 Fonctionnalités principales
+## 🔍 Fonctionnalités principales
 
-Scraping automatique :
+- **Scraping automatique**
+- **Notifications Discord**
+- **Commande personnalisée `!notes`**
 
-Récupère périodiquement les nouvelles notes publiées sur le site etudnotes.
+## 🛠️ Technologies utilisées
 
-Utilise Selenium pour gérer le scraping dynamique nécessitant l'exécution JavaScript.
+- Python
+- discord.py
+- Selenium WebDriver
 
-Notifications Discord :
-
-Envoie automatiquement un message Discord à chaque nouvelle note détectée.
-
-Fournit une commande Discord personnalisée !notes pour afficher toutes les notes actuelles.
-
-Persistance des données :
-
-Conserve les notes connues dans un fichier JSON (notes_connues.json) pour éviter les notifications répétées.
-
-🛠️ Technologies utilisées
-
-Python
-
-Discord.py (bibliothèque officielle Discord en Python)
-
-Selenium WebDriver (scraping web avec gestion JavaScript)
- 
