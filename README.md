@@ -16,3 +16,4 @@ Ce projet est un bot Discord écrit en Python qui automatise le scraping des not
 - discord.py
 - Selenium WebDriver
 
+![image](https://github.com/user-attachments/assets/f8568742-f067-495f-a5b2-8c84e1bc75f4)
